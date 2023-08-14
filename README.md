@@ -44,7 +44,8 @@ The project exposes the following API endpoints:
 
 ## Features
 The project includes the following features:
-- Able to see the submitted json as an API response.
-- webpage should display correct format json data
+- Enter JSON data in a textarea.
+- Validate and submit the JSON data to a backend API.
+- Display the key-value pairs of the submitted JSON data on the page.
 
 
