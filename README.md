@@ -1,3 +1,5 @@
+![Uploading error Page.PNG…]()
+
 # Project README
 
 ## Table of Contents
@@ -47,5 +49,18 @@ The project includes the following features:
 - Enter JSON data in a textarea.
 - Validate and submit the JSON data to a backend API.
 - Display the key-value pairs of the submitted JSON data on the page.
+
+## Home  Page
+![Home Page](https://github.com/love-porwal/ExactSpace-Assignment/assets/112820391/5e055e9d-0e6c-4126-a122-1bc5589a30f7)
+
+## Error Alert
+![error Page](https://github.com/love-porwal/ExactSpace-Assignment/assets/112820391/979a7a6e-5e42-4187-bfea-a94825b1665d)
+
+## Success Alert
+![success page](https://github.com/love-porwal/ExactSpace-Assignment/assets/112820391/5c0eb386-e66d-4f58-b718-6f4aa214ac40)
+
+## Result Page
+![Result Page](https://github.com/love-porwal/ExactSpace-Assignment/assets/112820391/24c41274-d837-4b4c-b111-0d2e2f7ba3c7)
+
 
 
