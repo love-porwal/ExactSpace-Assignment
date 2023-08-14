@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.17/dist/sweetalert2.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.17/dist/sweetalert2.min.js"></script>
+    <link rel="stylesheet" href="style.css" />
+    <title>ExactSpace</title>
+  </head>
+
+  <body>
+    <nav>
+      <h1>Welcome to ExactSpace - Analytics for industries</h1>
+      <p>
+        "ExactSpace is an Industrial AI company that focuses on helping
+        Industries answer these difficult questions and creating a greener
+        tomorrow."
+      </p>
+    </nav>
+    <div class="container">
+      <div class="leftContainer">
+        <!-- form for JSON input -->
+        <form id="Form">
+          <h2>Input box</h2>
+          <textarea
+            id="inputData"
+            name="inputData"
+            placeholder="Write your JSON data here..."
+            required
+          ></textarea>
+          <input type="submit" id="submitBtn" />
+        </form>
+      </div>
+      <div class="rightContainer">
+        <!--output header section  -->
+        <h2>Output box</h2>
+        <div id="box">
+          <div id="formContainer">
+            <!-- output will be inserted here -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+<script src="index.js"></script>
