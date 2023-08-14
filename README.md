@@ -1,6 +1,4 @@
-![Uploading error Page.PNG…]()
-
-# Project README
+# ExactSpace company Assignment - JSON Format Web Application
 
 ## Table of Contents
 - [Introduction](#introduction)
